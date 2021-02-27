@@ -93,3 +93,6 @@ for(var i = 0; i < enemyNames.length; i++) {
 
     //run fight function to start gaame
     //  fight();
+
+    //3.2.7
+    
